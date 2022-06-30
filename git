@@ -1,0 +1,3 @@
+git init
+print('hello world')
+git add
